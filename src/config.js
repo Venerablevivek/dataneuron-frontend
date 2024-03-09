@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://engineering-task-dataneuron.onrender.com';
